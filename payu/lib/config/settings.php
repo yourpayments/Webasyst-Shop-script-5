@@ -14,7 +14,7 @@ return array(
         'control_type' => waHtmlControl::INPUT,
     ),
 	'lu_url'   => array(
-        'value'        => 'https://secure.payu.ru/order/lu.php',
+        'value'        => 'https://secure.ypmn.ru/order/lu.php',
         'title'        => 'Ссылка перехода на страницу платежной системы',
         'description'  => '',
         'control_type' => waHtmlControl::INPUT,
